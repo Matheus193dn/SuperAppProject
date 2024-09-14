@@ -1,0 +1,5 @@
+{
+  "name": "SuperAppProject",
+  "displayName": "SuperAppProject",
+  "localModule": ["src_modules_LocalModule_LocalModule_tsx"]
+}
